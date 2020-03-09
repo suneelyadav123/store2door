@@ -1,0 +1,7 @@
+{
+  "name": "store2door",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
